@@ -1,5 +1,9 @@
 # main
 
-message.txt == full dump and analysis
+message.txt == full dump and analysis:
 
-ads.exe == clean full dump .exe, all in .text check via IDA or dump manually.
+```
+Includes his full exe clean dump, all his files, and his "routines" for hwid check + "antidebug".
+
+Also authentcation bypass.
+```
