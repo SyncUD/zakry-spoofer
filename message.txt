@@ -1,0 +1,177 @@
+Download links:
+
+00079a80	0000005b	U	https://cdn.discordapp.com/attachments/962856147730174002/1013150055529721906/tskhoster.exe
+00079b38	0000001b	U	C:\Windows\system32\VRX.sys
+00079b70	0000005a	U	https://cdn.discordapp.com/attachments/962856147730174002/1013150072768303124/kerneI32.sys
+00079c30	00000021	U	C:\Windows\system32\ntelidcxe.bat
+00079c80	00000060	U	https://cdn.discordapp.com/attachments/937140216374898750/949125324296290304/ntelidcx_Source.bat
+00079d50	00000020	U	C:\Windows\system32\cleanval.bat
+00079da0	00000057	U	https://cdn.discordapp.com/attachments/962856147730174002/1013150114803617962/clean.bat
+00079e50	00000022	U	C:\Windows\system32\tskhoster1.exe
+00079ea0	0000005c	U	https://cdn.discordapp.com/attachments/962856147730174002/1013150039507480596/tskhoster1.exe
+00079f60	0000001b	U	C:\Windows\system32\kdu.exe
+00079fa0	00000054	U	https://cdn.discordapp.com/attachments/937140216374898750/958711216149241876/kdu.exe
+0007a050	0000001c	U	C:\Windows\system32\bios.sys
+0007a090	00000059	U	https://cdn.discordapp.com/attachments/962856147730174002/1012802164969717860/ValoDRV.sys
+0007a148	0000001b	U	C:\Windows\system32\COD.sys
+0007a180	0000005a	U	https://cdn.discordapp.com/attachments/962856147730174002/1009492992681320579/System32.sys
+0007a240	00000020	U	C:\Windows\System32\winhlp64.dll
+0007a290	0000005a	U	https://cdn.discordapp.com/attachments/962856147730174002/1010897169982693446/winhlp64.dll
+0007a348	00000017	U	C:\Windows\ntelidcx.dll
+0007a380	0000005a	U	https://cdn.discordapp.com/attachments/962856147730174002/1010897171320672316/ntelidcx.dll
+0007a438	0000001a	U	C:\Windows\AppVLicense.dll
+0007a470	0000005d	U	https://cdn.discordapp.com/attachments/962856147730174002/1010897780031627334/AppVLicense.dll
+0007a530	00000020	U	C:\Windows\system32\ifsutipx.exe
+0007a580	00000059	U	https://cdn.discordapp.com/attachments/937140216374898750/949125325147738243/ifsutipx.exe
+0007a640	00000022	U	C:\Windows\system32\amifldrv64.sys
+0007a690	0000005b	U	https://cdn.discordapp.com/attachments/937140216374898750/949125324929638430/amifldrv64.sys
+0007a750	00000023	U	C:\Windows\system32\amigendrv64.sys
+0007a7a0	0000005d	U	https://cdn.discordapp.com/attachments/962856147730174002/1008803890302562424/amigendrv64.sys
+0007a860	00000025	U	C:\Windows\system32\accessibility.dll
+0007a8b0	0000005f	U	https://cdn.discordapp.com/attachments/962856147730174002/1010897170888675398/accessibility.dll
+0007a970	0000001b	U	C:\Windows\system32\idk.bat
+0007a9b0	00000057	U	https://cdn.discordapp.com/attachments/962856147730174002/1010904335913332767/Spoof.bat
+0007aa60	00000020	U	C:\Windows\system32\Valorant.bat
+0007aab0	00000059	U	https://cdn.discordapp.com/attachments/937140216374898750/963127077442314331/Valorant.bat
+0007ab70	00000022	U	C:\Windows\system32\ValorantV2.bat
+0007abc0	0000005b	U	https://cdn.discordapp.com/attachments/937140216374898750/963127077626843136/ValorantV2.bat
+0007ac80	00000027	U	C:\Windows\system32\Clean_SteamData.bat
+0007acd0	00000060	U	https://cdn.discordapp.com/attachments/937140216374898750/963127337325584435/Clean_SteamData.bat
+0007ada0	00000027	U	C:\Windows\system32\Valorant_or_EAC.bat
+0007adf0	00000061	U	https://cdn.discordapp.com/attachments/962856147730174002/1003690120165212280/Valorant_or_EAC.bat
+0007aec0	00000021	U	C:\Windows\system32\Valorant3.bat
+0007af10	0000005a	U	https://cdn.discordapp.com/attachments/962856147730174002/1003690141136715786/Valorant.bat
+0007afc8	0000001d	U	C:\Windows\system32\Steam.bat
+0007b010	00000057	U	https://cdn.discordapp.com/attachments/962856147730174002/1003690188221993021/Steam.bat
+0007b0c0	0000001d	U	C:\Windows\system32\start.bat
+0007b100	00000057	U	https://cdn.discordapp.com/attachments/962856147730174002/1003690328273989722/start.bat
+0007b1b0	0000001e	U	C:\Windows\system32\DCLEAN.exe
+0007b1f0	00000058	U	https://cdn.discordapp.com/attachments/962856147730174002/1003690345919426681/DCLEAN.exe
+0007b2a8	0000001b	U	C:\Windows\system32\DMV.exe
+0007b2e0	00000055	U	https://cdn.discordapp.com/attachments/962856147730174002/1003690340722671746/DMV.exe
+0007b390	00000033	U	C:\Windows\Performance\WinSAT\DataStore\cleaner.exe
+0007b400	00000059	U	https://cdn.discordapp.com/attachments/962856147730174002/1003693503605374976/cleaner.exe
+0007b4c0	0000001f	U	C:\Windows\system32\TRACERC.BAT
+0007b500	00000059	U	https://cdn.discordapp.com/attachments/962856147730174002/1002138174216208465/TRACERC.BAT
+0007b5c0	00000030	U	C:\Windows\Performance\WinSAT\DataStore\User.exe
+0007b630	00000055	U	https://cdn.discordapp.com/attachments/829526790867255327/863931314238128168/User.exe
+0007b6e0	0000001d	U	C:\Windows\system32\new_1.bat
+0007b720	00000057	U	https://cdn.discordapp.com/attachments/962856147730174002/1010895978213154836/new_1.bat
+0007b7d0	0000001a	U	C:\Windows\system32\OS.bat
+0007b810	00000054	U	https://cdn.discordapp.com/attachments/962856147730174002/1009241794971705474/OS.bat
+0007b8c0	00000019	U	C:\Windows\system32\2.exe
+0007b900	00000053	U	https://cdn.discordapp.com/attachments/962856147730174002/1009224896859099166/2.exe
+0007b9a8	00000019	U	C:\Windows\system32\3.exe
+0007b9e0	00000053	U	https://cdn.discordapp.com/attachments/962856147730174002/1009224915217559754/3.exe
+0007ba88	0000001a	U	C:\Windows\system32\4.exet
+0007bac0	00000053	U	https://cdn.discordapp.com/attachments/962856147730174002/1009224928182140968/4.exe
+0007bb68	00000019	U	C:\Windows\system32\5.exe
+0007bba0	00000053	U	https://cdn.discordapp.com/attachments/962856147730174002/1009224934960136404/5.exe
+0007bc48	00000019	U	C:\Windows\system32\6.exe
+0007bc80	00000053	U	https://cdn.discordapp.com/attachments/962856147730174002/1009224953247301662/6.exe
+0007bd28	0000001d	U	C:\Windows\system32\clean.bat
+0007bd70	00000057	U	https://cdn.discordapp.com/attachments/962856147730174002/1010905616073633812/clean.bat
+
+HWID CHECK: diskdrive from createfilea
+0007e528	00000012	A	\\.\PhysicalDrive0
+0007e540	00000012	A	\\.\PhysicalDrive1
+0007e558	00000012	A	\\.\PhysicalDrive2
+0007e570	00000012	A	\\.\PhysicalDrive3
+
+"ANTI-DEBUG": ( nop'd out in -5 seconds, so i wouldn't call it an antidebug)
+
+0007e680	0000001e	A	The Wireshark Network Analyzer
+0007e6a0	00000025	A	Progress Telerik Fiddler Web Debugger
+0007e6c8	00000007	A	Fiddler
+0007e6d0	0000000d	A	HTTP Debugger
+0007e6e0	00000011	A	FolderChangesView
+0007e6f8	0000000b	A	BinaryNinja
+0007e708	00000010	A	Cheat Engine 7.2
+0007e720	00000010	A	Cheat Engine 7.1
+0007e738	00000010	A	Cheat Engine 7.0
+0007e750	00000010	A	Cheat Engine 6.9
+0007e768	00000010	A	Cheat Engine 6.8
+0007e780	0000000c	A	Cheat Engine
+0007e798	00000007	A	Ida Pro
+0007e7a0	0000000c	A	Ida Freeware
+0007e7b0	00000011	A	HTTP Debugger Pro
+0007e7c8	0000000e	A	Process Hacker
+0007e7d8	00000010	A	Process Hacker 2
+0007e7f0	00000007	A	OllyDbg
+0007e7f6	00000013	U	gKsDumperClient.exe
+0007e820	00000012	U	HTTPDebuggerUI.exe
+0007e848	00000013	U	HTTPDebuggerSvc.exe
+0007e870	00000015	U	FolderChangesView.exe
+0007e8a0	00000011	U	ProcessHacker.exe
+0007e8c8	0000000b	U	procmon.exe
+0007e8e0	00000008	U	idaq.exe
+0007e8f8	0000000a	U	idaq64.exe
+0007e910	0000000d	U	Wireshark.exe
+0007e930	0000000b	U	Fiddler.exe
+0007e948	0000000b	U	Xenos64.exe
+0007e960	00000010	U	Cheat Engine.exe
+0007e990	0000002a	U	HTTP Debugger Windows Service (32 bit).exe
+0007e9e8	0000000c	U	KsDumper.exe
+0007ea08	0000000b	U	OllyDBG.exe
+0007ea20	0000000a	U	WinDbg.exe
+0007ea38	00000014	U	Process Explorer.exe
+0007ea68	00000013	U	Process Monitor.exe
+0007ea90	0000000a	U	Regmon.exe
+0007eaa8	0000000b	U	TCPView.exe
+0007eac0	0000000c	U	Autoruns.exe
+0007eae0	0000000b	U	Dumpcap.exe
+0007eaf8	00000010	U	HookExplorer.exe
+0007eb20	0000000e	U	Megadumper.exe
+0007eb40	00000010	U	poopengine32.exe
+0007eb68	00000010	U	poopengine64.exe
+0007eb90	0000000e	U	poopengine.exe
+0007ebb0	00000011	U	ExtremeDumper.exe
+0007ebd8	0000000b	U	PETools.exe
+0007ebf0	0000000a	U	LordPE.exe
+0007ec08	00000014	U	ImmunityDebugger.exe
+0007ec38	00000006	U	X64DBG
+0007ec48	00000019	A	net stop FACEIT >nul 2>&1
+0007ec68	0000001e	A	net stop ESEADriver2 >nul 2>&1
+0007ec88	00000021	A	sc stop HTTPDebuggerPro >nul 2>&1
+0007ecb0	00000021	A	sc stop KProcessHacker3 >nul 2>&1
+0007ecd8	00000021	A	sc stop KProcessHacker2 >nul 2>&1
+0007ed00	00000021	A	sc stop KProcessHacker1 >nul 2>&1
+0007ed28	0000001b	A	sc stop wireshark >nul 2>&1
+0007ed48	00000015	A	sc stop npf >nul 2>&1
+0007ed60	00000038	A	SystemSettingsAdminFlows.exe SetInternetTime 1 >nul 2>&1
+0007eda0	0000003a	A	taskkill /FI "IMAGENAME eq fiddler*" /IM * /F /T >nul 2>&1
+0007ede0	0000003c	A	taskkill /FI "IMAGENAME eq wireshark*" /IM * /F /T >nul 2>&1
+0007ee20	0000003b	A	taskkill /FI "IMAGENAME eq rawshark*" /IM * /F /T >nul 2>&1
+0007ee60	0000003a	A	taskkill /FI "IMAGENAME eq charles*" /IM * /F /T >nul 2>&1
+0007eea0	0000003e	A	taskkill /FI "IMAGENAME eq cheatengine*" /IM * /F /T >nul 2>&1
+0007eee0	00000036	A	taskkill /FI "IMAGENAME eq ida*" /IM * /F /T >nul 2>&1
+0007ef20	0000003f	A	taskkill /FI "IMAGENAME eq httpdebugger*" /IM * /F /T >nul 2>&1
+0007ef60	00000040	A	taskkill /FI "IMAGENAME eq processhacker*" /IM * /F /T >nul 2>&1
+0007efa8	00000024	A	sc stop HTTPDebuggerProSdk >nul 2>&1
+0007efd0	00000018	A	sc stop x64dbg >nul 2>&1
+0007eff0	00000018	A	sc stop x32dbg >nul 2>&1
+0007f027	00000007	A	?6|',!V
+0007f030	0000000c	A	poopengine32
+0007f040	0000000c	A	poopengine64
+0007f050	0000000a	A	poopengine
+0007f070	00000029	A	<--------------------------------------->
+0007f0a0	00000013	A	 Debugger detected!
+0007f0b8	00000010	A	 Debugger Name: 
+0007f0e0	0000000a	U	\\.\NiGgEr
+0007f0f8	00000007	U	\\.\dbk
+0007f108	0000000c	U	\\.\KsDumper
+0007f128	0000000f	A	Driver Detected
+
+Authentication bypass:
+
+https://bergsonian-blindfol.000webhostapp.com
+
+Yes, he uses auth.gg LOL.
+
+Owner thinks he is something, but dumped my unobfuscated strings via process hacker, while using an old loader because he can't do the new one.
+
+Then proceeds to requests $200 to delete it, he has $89 on his coinbase (wont leak how I know that LOL)
+
+Good luck to him.
+
+Clean dump with all of this embedded in .text: https://cdn.discordapp.com/attachments/973293718486536252/1014317678778929325/ads.exe
